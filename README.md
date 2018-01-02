@@ -26,6 +26,7 @@ Feel free to submit a pull request with new useful resources, and please report 
 ---
 
 * [The Frontend Checklist](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
+
   An exhaustive list of all the elements you need to have/test before launching your website to production.
 
 ---
