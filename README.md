@@ -13,6 +13,7 @@ Feel free to submit a pull request with new useful resources, and please report 
 ---
 
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+
   Guides developed by Google to help developers build modern web applications.
 
 ---
