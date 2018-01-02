@@ -1,14 +1,10 @@
 # Awesome Frontend Resources
 
----
-
 A collection of valuable resources about front-end development and programming in general for improving your life as a developer.
 
 Feel free to submit a pull request with new useful resources, and please report any dead links by creating an issue. Thanks!
 
 ## General Frontend
-
----
 
 * [Micro-frontends](https://micro-frontends.org/)
 
@@ -40,8 +36,6 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ## General Programming
 
----
-
 * [Calçado's Microservices Prerequisites](http://philcalcado.com/2017/06/11/calcados_microservices_prerequisites.html)
 
 ---
@@ -52,14 +46,14 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ## JavaScript
 
----
-
 * [Exploring ES6](http://exploringjs.com/es6/index.html#toc_ch_about-es6)
+
   Upgrade to the next version of JavaScript with this free book.
 
 ---
 
 * [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
+
   Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript.
 
 ---
@@ -71,11 +65,13 @@ Feel free to submit a pull request with new useful resources, and please report 
 ---
 
 * [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+
   A series aimed at digging deeper into JavaScript and how it actually works.
 
 ---
 
 * [Debugging Tips and Tricks](https://css-tricks.com/debugging-tips-tricks/?utm_source=javascriptweekly&utm_medium=email)
+
   Sarah Drasner talks about important debugging concepts and how to use the DevTools to help your life.
 
 ---
@@ -85,6 +81,7 @@ Feel free to submit a pull request with new useful resources, and please report 
 ---
 
 * [Indentation Is The Enemy: Writing Less Complex Javascript](https://jrsinclair.com/articles/2017/indentation-is-the-enemy-less-complex-javascript/)
+
   This is part one of a series on how to write less complex code in JavaScript
 
 ---
@@ -106,26 +103,24 @@ Feel free to submit a pull request with new useful resources, and please report 
 ---
 
 * [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
+
   By Addy Osmani.
 
 ---
 
 * [The Cost of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+
   By Addy Osmani.
 
 ---
 
 ### Talks
 
----
-
 * [Immutable User Interfaces](https://www.youtube.com/watch?v=rtcn9I9sB5M)
 
 ---
 
 ## React
-
----
 
 * [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
 
@@ -165,15 +160,11 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ### React Talks
 
----
-
 * [Styling React/ReactNative Applications](https://www.youtube.com/watch?time_continue=89&v=bIK2NwoK9xk)
 
 ---
 
 ## CSS
-
----
 
 * [CSS Guidelines](https://cssguidelin.es/)
 
@@ -186,13 +177,12 @@ Feel free to submit a pull request with new useful resources, and please report 
 ---
 
 * [Advanced HTML & CSS Guide](https://learn.shayhowe.com/advanced-html-css/performance-organization/)
+
   This tutorial explain some advanced CSS concepts and go over some performance tips
 
 ---
 
 ### CSS / SVG Talks
-
----
 
 * [Intricate SVG Animations](https://www.youtube.com/watch?v=wc8ovZZ78SY)
 
@@ -204,9 +194,8 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ## UX/UI Design
 
----
-
 * [Screens Essentials for UI Designers](https://learnux.io/course/screens-essentials?autoplay=1)
+
   A free video course for aspirants in design
 
 ---
