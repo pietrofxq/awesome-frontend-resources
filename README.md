@@ -22,7 +22,7 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ---
 
-* [Frontend Performance for Web Designers and Developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/#section:dns-prefetching)
+* [Frontend Performance for Web Designers and Developers](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers)
 
 ---
 
