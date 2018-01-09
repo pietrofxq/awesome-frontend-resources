@@ -116,6 +116,10 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ---
 
+* [Free Webpack ebook by @SurviveJS](https://survivejs.com/webpack/foreword/)
+
+---
+
 ### Talks
 
 * [Immutable User Interfaces](https://www.youtube.com/watch?v=rtcn9I9sB5M)
