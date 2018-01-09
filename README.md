@@ -174,6 +174,12 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ---
 
+* [SASS Guidelines](https://sass-guidelin.es/)
+
+  An opinionated styleguide for writing sane, maintainable and scalable Sass.
+
+---
+
 * [Learn CSS Grid in 5 Minutes](https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228)
 
 ---
