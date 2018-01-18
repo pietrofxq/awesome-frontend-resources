@@ -60,6 +60,10 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ---
 
+* [Robust Client-side JavaScript - A Developer's Guide](https://molily.de/robust-javascript/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=98)
+
+---
+
 * [The Definitive JavaScript Handbook for your next developer interview](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
 
   A handy handbook to refresh the core javascript concepts usually needed for job interviews.
