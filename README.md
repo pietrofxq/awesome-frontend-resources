@@ -76,6 +76,12 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ---
 
+* [JavaScript Super Tiny Compiler](https://the-super-tiny-compiler.glitch.me/)
+
+  Learn how compilers work by going through the guided code of a simple JavaScript compiler.
+
+---
+
 * [Debugging Tips and Tricks](https://css-tricks.com/debugging-tips-tricks/?utm_source=javascriptweekly&utm_medium=email)
 
   Sarah Drasner talks about important debugging concepts and how to use the DevTools to help your life.
@@ -131,6 +137,12 @@ Feel free to submit a pull request with new useful resources, and please report 
 ---
 
 ## React
+
+* [Build a real world react & redux application](https://thinkster.io/tutorials/build-a-real-world-react-redux-application)
+
+  A tutorial series to learn the fundamentals of React & Redux and how to use them for building real world applications.
+
+---
 
 * [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
 
@@ -188,6 +200,16 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ---
 
+* [Flexbox guides by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
+
+  A series of articles explaining how the Flexible Box Layout works.
+
+---
+
+* [Free CSS Grid course by Wes Bos](https://cssgrid.io/)
+
+---
+
 * [Learn CSS Grid in 5 Minutes](https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228)
 
 ---
@@ -231,5 +253,11 @@ Feel free to submit a pull request with new useful resources, and please report 
 ---
 
 * [True Lies of Optimistic User Interfaces](https://www.smashingmagazine.com/2016/11/true-lies-of-optimistic-user-interfaces/)
+
+---
+
+### Talks
+
+* [And You Thought Designing Buttons Was Easy](https://www.youtube.com/watch?v=IBU1lTfZ4Co)
 
 ---
