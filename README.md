@@ -166,6 +166,10 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ---
 
+* [Creating accessible React apps](http://simplyaccessible.com/article/react-a11y/)
+
+---
+
 * [Component Level Isomorphic Webpack Code-Splitting](https://medium.com/discovery-engineering/component-level-isomorphic-webpack-code-splitting-b98922382cc1)
 
 ---
