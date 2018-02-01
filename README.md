@@ -76,6 +76,16 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ---
 
+* [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
+
+--- 
+
+* [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a)
+
+  This short guide is intended to catch you up with the most important reasoning, terms, tools, and approaches to JavaScript testing.
+
+---
+
 * [JavaScript Super Tiny Compiler](https://the-super-tiny-compiler.glitch.me/)
 
   Learn how compilers work by going through the guided code of a simple JavaScript compiler.
