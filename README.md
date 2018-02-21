@@ -148,11 +148,6 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ## React
 
-* [Build a real world react & redux application](https://thinkster.io/tutorials/build-a-real-world-react-redux-application)
-
-  A tutorial series to learn the fundamentals of React & Redux and how to use them for building real world applications.
-
----
 
 * [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
 
