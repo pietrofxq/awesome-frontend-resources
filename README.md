@@ -48,6 +48,12 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ## JavaScript
 
+* [Eloquent JavaScript](http://eloquentjavascript.net/2nd_edition/)
+
+  One of the best free JavaScript books.
+
+---
+
 * [Exploring ES6](http://exploringjs.com/es6/index.html#toc_ch_about-es6)
 
   Upgrade to the next version of JavaScript with this free book.
@@ -78,7 +84,7 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 
---- 
+---
 
 * [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a)
 
@@ -148,7 +154,6 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ## React
 
-
 * [Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/)
 
   Tips about how to create design systems with React
@@ -186,6 +191,10 @@ Feel free to submit a pull request with new useful resources, and please report 
 ---
 
 * [The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)
+
+---
+
+* [Creating accessible React apps](http://simplyaccessible.com/article/react-a11y/)
 
 ---
 
@@ -262,6 +271,10 @@ Feel free to submit a pull request with new useful resources, and please report 
 ---
 
 * [True Lies of Optimistic User Interfaces](https://www.smashingmagazine.com/2016/11/true-lies-of-optimistic-user-interfaces/)
+
+---
+
+* [An Intro to Color Theory: How to combine colors and set the mood of your designs](https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d)
 
 ---
 
