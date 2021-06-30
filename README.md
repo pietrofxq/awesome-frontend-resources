@@ -146,6 +146,12 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ---
 
+* [DevProjects: JavaScript projects](https://www.codementor.io/projects/javascript)
+
+  A list of JavaScript projects to practice, from beginner level to advanced. 
+
+---
+
 ### Talks
 
 * [Immutable User Interfaces](https://www.youtube.com/watch?v=rtcn9I9sB5M)
