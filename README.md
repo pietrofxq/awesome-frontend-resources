@@ -86,7 +86,7 @@ Feel free to submit a pull request with new useful resources, and please report 
 
 ---
 
-* [An Overview of JavaScript Testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a)
+* [An Overview of JavaScript Testing in 2021](https://medium.com/welldone-software/an-overview-of-javascript-testing-7ce7298b9870)
 
   This short guide is intended to catch you up with the most important reasoning, terms, tools, and approaches to JavaScript testing.
 
